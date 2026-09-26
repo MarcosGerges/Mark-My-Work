@@ -1,0 +1,6 @@
+I had a lot of fun with one as I decided that I wanted really crazy string manipulation and the model responded well.
+The one thing I noticed was because I gave all my instructions in a single block, it added all teh functions without making a pipeline of functions.
+I had to reprompt the AI to split the function into smaller helps as well as tell it to include checks like making sure the string isn't empty or made of spaces.
+It should be mentioned that the current output isn't a pipeline per say, but a collection of functions that run in sequence.
+This was how I iinterpreted the question, however implementation into a LLM pipeline would be very simple as it would only require creating agents that run each function; no LLM required.
+Overall, I'm really happy with how this one worked, and the AI responded, only requiring a little redirection.

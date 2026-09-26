@@ -1,0 +1,7 @@
+This problem required me to take some creative liberties as I wasn't fully sure on some of the elements of the question.
+The main things to identify was what makes a teacher and a student; something that could be accomplished by looking at row numbers that called and using that inspire the code.
+Overall, the AI responded well, yet for this I didn't trust the model to execute everything in one step.
+To handle this, I gave the AI specifc instructions as to how to sepereate the types of people and told it how to implement the code.
+I also manually added the version without the admin so I could compare the code, if there ever be a case that admin isn't necessary.
+To conclude, the AI did well, but specifcially becasue I broke the code up
+Results would vary if I gave the whole prompt to the AI without intervining.

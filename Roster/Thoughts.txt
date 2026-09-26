@@ -1,0 +1,5 @@
+For a first problem, the AI responded well, but it forgot to print out the outputs.
+When prompted, the AI was able to create the function to group the students, but I had to prompt the agent to add the print statements to print that results as the code only returned without doing anything it.
+In addition, it should be mentioned that for this problem, I also broke the problem into bite size steps and fed those in one at a time. 
+By addig each feature one step at a time, it ensured the foundation was strong before I added more features to.
+Overall, I'm happy with the output and the results show that the code worked as expected.

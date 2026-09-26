@@ -1,7 +1,8 @@
+# Invert all cases
 def invert_case(text):
 	return text.swapcase()
 
-
+# Swap the first and last letters of the string
 def swap_first_last_letters(text):
 	characters = list(text)
 	letter_positions = [
@@ -15,7 +16,7 @@ def swap_first_last_letters(text):
 	)
 	return "".join(characters)
 
-
+# Add a comma after the first 5 characters of the string
 def add_comma(text):
 	if len(text) <= 5:
 		return text + ","

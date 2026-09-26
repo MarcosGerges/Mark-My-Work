@@ -1,0 +1,5 @@
+For this question, I really didn't know where to start.
+For this code example, I started by pasting the full prompt into the chat and letting the code do it's thing
+Once it generated the code, I got it to explain the code step by step so I can get a better idea of what to do. 
+I then got the AI to create a test file to run and see if it produced errors.
+Overall, I feel the AI preformed pretty well on this one as it even able to identify when I made mistakes in pasting the command properly

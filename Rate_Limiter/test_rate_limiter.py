@@ -1,7 +1,7 @@
 import unittest
 from collections.abc import Hashable
 
-from Rate_limiter import RateLimiter
+from Rate_Limiter.Rate_limiter import RateLimiter
 
 
 class FakeClock:
